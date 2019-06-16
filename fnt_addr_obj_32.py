@@ -1,16 +1,18 @@
 
+#Display header
+
 headl = "Fortigate network address object"
 
 count_headl = len(headl)
 
 print('*'*int(count_headl),'\n')
 
-print("Fortigate network address object\n")
+print(headl,"\n")
 
 print('*'*int(count_headl),'\n\n\n')
 
 
-#Create list of IP addresses and add suffix /32 to IPaddresses. 
+#Create list of IP addresses and add suffix /32 to IPaddresses.
 #Put all list of IP addresses in one text file for creating address object.
 #Provide that file path when asked in script
 
