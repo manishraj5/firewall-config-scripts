@@ -1,3 +1,4 @@
+
 #title
 headl = "Generate Fortigate VIP/Static-NAT configuration"
 count_headl = len(headl)
